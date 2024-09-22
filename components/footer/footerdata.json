@@ -1,0 +1,48 @@
+{
+  "logo": {
+    "text": "Banfield's Professional Medical English"
+  },
+  "socialLinks": [
+    { "name": "Facebook", "url": "https://facebook.com" },
+    { "name": "Instagram", "url": "https://instagram.com" },
+    { "name": "LinkedIn", "url": "https://linkedin.com" },
+    { "name": "YouTube", "url": "https://youtube.com" },
+    { "name": "WhatsApp", "url": "https://whatsapp.com" }
+  ],
+  "sections": [
+    {
+      "title": "Explore",
+      "links": [
+        { "text": "Home", "url": "/home" },
+        { "text": "About Us", "url": "/about" },
+        { "text": "Impressum", "url": "/impressum" },
+        { "text": "Privacy Policy", "url": "/privacy-policy" },
+        { "text": "Terms & Conditions for Clients", "url": "/terms" },
+        { "text": "BPME Course Brochure", "url": "/brochure" }
+      ]
+    },
+    {
+      "title": "Affiliate",
+      "links": [
+        { "text": "Become an Affiliate", "url": "/affiliate" },
+        { "text": "Affiliate Login", "url": "/affiliate-login" }
+      ]
+    },
+    {
+      "title": "Help",
+      "links": [
+        { "text": "Instruction Videos", "url": "/instruction-videos" },
+        { "text": "FAQ OET", "url": "/faq-oet" },
+        { "text": "FAQ Medical English", "url": "/faq-medical-english" }
+      ]
+    },
+    {
+      "title": "Contact",
+      "details": [
+        { "type": "phone", "text": "+49 4454 968 8083" },
+        { "type": "email", "text": "info@promedicalenglish.com" },
+        { "type": "phone", "text": "+886 928 729 860" }
+      ]
+    }
+  ]
+}
